@@ -1,0 +1,16 @@
+easyocr==1.7.1
+fastapi==0.109.0
+imutils==0.5.4
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+numpy==1.26.2
+opencv-python==4.9.0.80
+opencv-python-headless==4.8.1.78
+openpyxl==3.1.2
+pandas==2.1.4
+Pillow==10.1.0
+pytesseract==0.3.10
+torch==2.1.1
+torchvision==0.16.1
+ultralytics==8.0.227
+uvicorn==0.25.0
